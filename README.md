@@ -2,7 +2,7 @@
 - 👀 I’m interested by java and javascript 
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Web and Java project
-- 📫 How to reach me: "10franckpertinent@gmail.com" 
+- 📫 How to reach me: "[My Website](http://franckduval.com/)" 
 - I'm a javascript expert
 - I'm fullstack developer, and mobile dev with react
 - I can build easy pc app with javafx or Gtkm too.
